@@ -94,3 +94,5 @@ Werkzeug==1.0.1
 whitenoise==5.2.0
 widgetsnbextension==3.5.1
 wrapt==1.12.1
+setuptools==0.7.3
+distribute==0.6.24
