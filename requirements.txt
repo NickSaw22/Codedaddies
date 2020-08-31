@@ -1,4 +1,4 @@
-appdirs==1.4.3
+appdirs==1.4.4
 argon2-cffi==20.1.0
 asgiref==3.2.10
 astroid==2.4.2
@@ -73,7 +73,7 @@ pywinpty==0.5.7
 pyzmq==19.0.2
 requests==2.24.0
 retrying==1.3.3
-scikit-learn==0.22.2.post1
+scikit-learn==0.23.2
 scipy==1.4.1
 Send2Trash==1.5.0
 six==1.15.0
